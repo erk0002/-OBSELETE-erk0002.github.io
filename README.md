@@ -1,6 +1,6 @@
 # erk0002.github.io
 
-This is the first git repository made by Tristan. It's contents include the html, css, and an image used to create a profile website with information related to Tristan.
+This is the first git repository made by Tristan. It's contents include the html, css, javascript, and an image used to create a profile website with information related to Tristan.
 
 ## How to access:
 
